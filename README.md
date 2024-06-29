@@ -17,3 +17,4 @@ console.log(summary)
 //   {netPrice: 100}
 // ];
 ```
+Rattanon Tunwittaya
